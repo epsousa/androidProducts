@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Master Products</string>
+    <string name="title_activity_main">Master Products</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="nome">Name</string>
+    <string name="email">E-Mail example@example.com</string>
+    <string name="senha">Password</string>
+    <string name="confirmPass">Confirm your password</string>
+    <string name="Cadastrar">Submit</string>
+    <string name="login">Login</string>
+    <string name="lembrar">Remember my login</string>
+    <string name="cadastrese">Sign-up</string>
+    <string name="tenteDenovo">Try Again</string>
+    <string name="devname">Developer name: Evair Pereira Sousa</string>
+    <string name="version">Version: 1.0.0</string>
+    <string name="nomeProduto">Product Name *</string>
+    <string name="categoria">Product Category *</string>
+    <string name="preco">Price *</string>
+    <string name="imagem">Image Link</string>
+    <string name="deletar">Delete Product</string>
+    <string name="loading">Loading...</string>
+    <string name="todosProdutos">All Products</string>
+    <string name="novoProduto">New Product</string>
+    <string name="sobre">About</string>
+    <string name="loggout">Logout</string>
+    <string name="preencher">All fields are necessary</string>
+    <string name="cadastrado">Success!</string>
+    <string name="erroapi">Error from API</string>
+    <string name="alterado">Updated with success!</string>
+    <string name="deletado">Deleted with success!</string>
+    <string name="erroemail">Email or Passwords is wrong</string>
+    <string name="senhasdiferentes">Password are not equals</string>
+    <string name="search">Search</string>
+    <string name="notFoundProducts">Products not found</string>
+    <string name="corrigirEmail">e-mail must be like example@example.com</string>
+    <string name="preencherProduto">All fields with * are necessary</string>
+</resources>
